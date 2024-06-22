@@ -752,3 +752,10 @@ border-top-left-radius: 45px;
 border-bottom-right-radius:45px;
 justify-self: center;
 }
+
+
+.project_linkss{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
